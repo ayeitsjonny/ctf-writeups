@@ -1,10 +1,16 @@
-# Orchid Has Two Shadows
+# ORCHID HAS TWO SHADOWS
 
-**Category:** Crypto | **Points:** 50 | **File:** `orchid_transcript.json`
+| | |
+|---|---|
+| **CTF** | CyberBlitz 2026 |
+| **Challenge** | ORCHID HAS TWO SHADOWS |
+| **Category** | Crypto |
+| **Points** | 50 |
+| **Author** | Anonymous |
+| **Solves** | 41 (at time of solving) |
+| **Flag** | `CYBLTZ2026{0n3_n4m3_7w0_r3g157rY_5l075}` |
 
-```text
-CYBLTZ2026{0n3_n4m3_7w0_r3g157rY_5l075}
-```
+**File:** `orchid_transcript.json`
 
 ## Challenge
 
