@@ -1,5 +1,5 @@
 # CyberBlitz CTF
-Organiser: SIT | Team/Solo: ... | Rank: ...
+Organiser: SIT | Team/Solo: Solo | Rank: 45th
 
 | Challenge | Category | Points | Writeup |
 |-----------|----------|--------|---------|
