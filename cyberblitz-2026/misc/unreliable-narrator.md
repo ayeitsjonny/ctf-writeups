@@ -1,10 +1,14 @@
 # Unreliable Narrator
 
-**Event:** CyberBlitz CTF
-**Category:** _(fill in: Misc / Forensics)_
-**Points:** 73
-**Author:** @unablebagel
-**Flag:** `CYBLTZ2026{ERRATA_IN_THE_MARGIN}`
+| | |
+|---|---|
+| **CTF** | CyberBlitz 2026 |
+| **Challenge** | Unreliable Narrator |
+| **Category** | Misc |
+| **Points** | 73 |
+| **Author** | @unablebagel |
+| **Solves** | 40 (at time of solving) |
+| **Flag** | `CYBLTZ2026{ERRATA_IN_THE_MARGIN}` |
 
 > Got drunk at the ePUB and now the pages are blurry, the plot makes no sense, and the narrator is telling me things that never happened. I'm starting to think the copy I was handed isn't the only printing.
 
