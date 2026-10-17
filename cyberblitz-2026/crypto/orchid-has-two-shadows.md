@@ -2,7 +2,6 @@
 
 | | |
 |---|---|
-| **CTF** | CyberBlitz 2026 |
 | **Challenge** | ORCHID HAS TWO SHADOWS |
 | **Category** | Crypto |
 | **Points** | 50 |
