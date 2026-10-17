@@ -4,7 +4,7 @@
 |---|---|
 | **CTF** | CyberBlitz 2026 |
 | **Challenge** | SCYTALE |
-| **Category** | <!-- fill in: Crypto / Misc --> |
+| **Category** | Crypto |
 | **Points** | 50 |
 | **Author** | @unablebagel |
 | **Solves** | 48 (at time of solving) |
