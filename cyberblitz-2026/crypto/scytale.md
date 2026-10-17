@@ -1,6 +1,5 @@
 # SCYTALE
 
-| | |
 |---|---|
 | **CTF** | CyberBlitz 2026 |
 | **Challenge** | SCYTALE |
